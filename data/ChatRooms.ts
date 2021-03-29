@@ -35,7 +35,7 @@ export default [
     ],
     lastMessage: {
       id: "m2",
-      content: "How are you doing?",
+      content: "you kno ive been sober for a couple of years right?",
       createdAt: "2020-10-02T15:40:00.000Z",
     },
   },
@@ -55,7 +55,7 @@ export default [
     ],
     lastMessage: {
       id: "m3",
-      content: "Hi, Vadim.",
+      content: "Hey, so are we meeting up at the usual spot?",
       createdAt: "2020-10-02T14:48:00.000Z",
     },
   },
@@ -75,7 +75,8 @@ export default [
     ],
     lastMessage: {
       id: "m4",
-      content: "Can you review my last merge",
+      content:
+        "Can you review my last merge please? I am pretty sure it's worth checking lmao.",
       createdAt: "2020-09-29T14:48:00.000Z",
     },
   },
@@ -95,7 +96,7 @@ export default [
     ],
     lastMessage: {
       id: "m5",
-      content: "I would be happy",
+      content: "I've transferred you 1k BTC. Please leave me alone.",
       createdAt: "2020-09-30T14:48:00.000Z",
     },
   },
@@ -115,7 +116,8 @@ export default [
     ],
     lastMessage: {
       id: "m6",
-      content: "I have a solution",
+      content:
+        "I have a solution to the problem you stated. What if we had 10,000 lions fighting against the sun?",
       createdAt: "2020-10-02T15:40:00.000Z",
     },
   },
@@ -135,7 +137,7 @@ export default [
     ],
     lastMessage: {
       id: "m7",
-      content: "How are you doing?",
+      content: "How are you doing baby?",
       createdAt: "2020-10-02T15:40:00.000Z",
     },
   },
@@ -155,7 +157,7 @@ export default [
     ],
     lastMessage: {
       id: "m8",
-      content: "Dear, did you eat?",
+      content: "Dear, did you eat? You work too much, take a break.",
       createdAt: "2020-09-27T15:40:00.000Z",
     },
   },
@@ -175,7 +177,7 @@ export default [
     ],
     lastMessage: {
       id: "m9",
-      content: "Meet me at the same place",
+      content: "Meet me at the same place ;)",
       createdAt: "2020-09-25T15:40:00.000Z",
     },
   },

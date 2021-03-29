@@ -3,12 +3,12 @@ import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({
   container: {
     flexDirection: "row",
-    width: "100%",
     justifyContent: "space-between",
     padding: 10,
   },
   leftContainer: {
     flexDirection: "row",
+    width: "80%",
   },
   midContainer: {
     justifyContent: "space-around",
@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
     color: "grey",
   },
   time: {
-    fontSize: 16,
+    fontSize: 14,
     color: "grey",
   },
 });

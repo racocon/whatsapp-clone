@@ -66,7 +66,7 @@ const ChatsStack = createStackNavigator<ChatsParamList>();
 
 function ChatsNavigator() {
   return (
-    <ChatsStack.Navigator>
+    <ChatsStack.Navigator screenOptions={{ headerShown: false }}>
       <ChatsStack.Screen name="ChatsScreen" component={ChatsScreen} />
     </ChatsStack.Navigator>
   );
@@ -76,7 +76,7 @@ const TabTwoStack = createStackNavigator<TabTwoParamList>();
 
 function TabTwoNavigator() {
   return (
-    <TabTwoStack.Navigator>
+    <TabTwoStack.Navigator screenOptions={{ headerShown: false }}>
       <TabTwoStack.Screen name="TabTwoScreen" component={TabTwoScreen} />
     </TabTwoStack.Navigator>
   );
