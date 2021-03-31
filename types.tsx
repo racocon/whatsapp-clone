@@ -28,10 +28,11 @@ export type Message = {
   id: string;
   content: string;
   createdAt: string;
+  user: User;
 };
 
 export type ChatRoom = {
   id: string;
-  users: [User];
+  users: User[];
   lastMessage: Message;
 };
